@@ -6,7 +6,7 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Dashboard from './pages/Dashboard';
 import CaregiverDashboard from './pages/CaregiverDashboard';
-import CreateProfile from './pages/Createprofile';
+import CreateProfile from './pages/createProfile';
 import EditProfile from './pages/EditProfile';
 import QRPage from './pages/QRpage';
 import EmergencyView from './pages/EmergencyView';
