@@ -1,0 +1,18 @@
+orks{
+  "short_name": "SilentSOS",
+  "name": "SilentSOS Emergency Platform",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0ea5e9",
+  "background_color": "#f0f9ff",
+  "description": "Emergency voice for non-verbal individuals.",
+  "orientation": "portrait-primary",
+  "scope": "/"
+}

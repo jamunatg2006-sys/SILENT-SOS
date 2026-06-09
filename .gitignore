@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Production
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Backend uploads (Privacy: do not track patient photos)
+backend/uploads/
+uploads/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Misc
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+
+# Local development logs
+*.log
+
+# Ignore recursive project folders
+silentSOS/
